@@ -1,0 +1,12 @@
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real_Time_Screen_Filters.Properties.Resources.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real_Time_Screen_Filters.Ventana_Acerca.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real_Time_Screen_Filters.Ventana_Depurador_Excepciones.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real_Time_Screen_Filters.Ventana_Principal.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real Time Screen Filters.csproj.GenerateResource.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real Time Screen Filters.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\bin\Debug\Real Time Screen Filters.exe.config
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\bin\Debug\Real Time Screen Filters.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\bin\Debug\Real Time Screen Filters.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real Time Screen Filters.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real Time Screen Filters.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Real Time Screen Filters\Real Time Screen Filters\obj\Debug\Real Time Screen Filters.csprojAssemblyReference.cache
